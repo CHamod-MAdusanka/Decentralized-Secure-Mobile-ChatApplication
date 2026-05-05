@@ -41,8 +41,3 @@ This project is a peer-to-peer (P2P) messaging system that removes the need for 
 * The app then uses User B’s Private Key to decrypt the data.
 * The message becomes readable text on User B's screen.
 
-## 3. Why This Is Better (Key Advantages)
-* **Zero Server Costs**: Since the users provide the storage and bandwidth, there are no expensive central servers to maintain[cite: 1].
-* **Privacy by Design**: Because only the user has the Private Key, not even the developers can read the chats[cite: 1].
-* **No Single Point of Failure**: If one part of the network goes down, the rest of the users stay connected[cite: 1].
-* **Unlimited Storage**: By moving from a browser (5MB limit) to a Mobile App with IPFS integration, users can share photos and large files without running out of space[cite: 1].
