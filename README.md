@@ -1,4 +1,5 @@
 # Project Title: Decentralized Secure Mobile Chat Application
+<img width="1408" height="768" alt="2" src="https://github.com/user-attachments/assets/fdd0a46c-81c7-4c39-b51f-e7c6675f181d" />
 
 ## 1. System Architecture Overview
 This project is a peer-to-peer (P2P) messaging system that removes the need for a central server[cite: 1]. It is designed as a mobile application to overcome the 5MB storage limits found in standard web browsers[cite: 1].
